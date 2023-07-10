@@ -20,7 +20,7 @@
    <a href="https://vk.com/awxnnadwn">
     <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte Badge"/>
   </a>
-  <a href="https://github.com/KirillFigmaLover">
+  <a href="https://github.com/Y3-enjoyer">
     <img src="https://komarev.com/ghpvc/?username=Y3-enjoyer&label=Profile views&color=red&style=flat-square"  alt=""/>
  </a>
 </div>
