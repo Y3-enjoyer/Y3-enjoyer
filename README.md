@@ -17,7 +17,7 @@
   <a href="mailto:sapaevkirill2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-   <a href="https://vk.com/awxnnadwn">
+   <a href="https://vk.com/buffbrudupls">
     <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte Badge"/>
   </a>
   <a href="https://github.com/Y3-enjoyer">
